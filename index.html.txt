@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Planetearth Conserve</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f0f4f1;
+      color: #333;
+    }
+    header {
+      background: #245e4d;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    main {
+      padding: 2em;
+    }
+    section {
+      margin-bottom: 2em;
+    }
+    h2 {
+      color: #2c6e61;
+    }
+    footer {
+      background: #245e4d;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+    .logo {
+      max-width: 200px;
+      margin: 1em auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Planetearth Conserve Logo" class="logo">
+    <h1>Planetearth Conserve</h1>
+    <p>Science. Awareness. Action.</p>
+  </header>
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>Founded by a passionate young environmentalist, Planetearth Conserve bridges science and humanity to protect our natural world. We raise awareness, inspire connection, and empower people to heal, protect, and love our planet.</p>
+    </section>
+    <section>
+      <h2>Scientific Research</h2>
+      <p>We explore biodiversity in fauna and flora, from climate change and urbanization to marine ecosystems and endangered species — using science to protect life on Earth.</p>
+    </section>
+    <section>
+      <h2>Awareness & News</h2>
+      <p>We share global news, educational content, and scientific discoveries to build awareness and encourage action for endangered species, ecosystems, and climate change.</p>
+    </section>
+    <section>
+      <h2>Sustainable Activities</h2>
+      <p>From eco-friendly living and marine protection to cleanup events and environmental workshops — we promote sustainable actions to reconnect people with nature.</p>
+    </section>
+    <section>
+      <h2>Follow Us</h2>
+      <ul>
+        <li><a href="https://x.com/PlanetEarthCO">X (Twitter)</a></li>
+        <li><a href="https://www.instagram.com/planetearthconserve">Instagram</a></li>
+        <li><a href="https://www.facebook.com/share/1RiVfeQNBt">Facebook</a></li>
+        <li><a href="https://www.linkedin.com/company/planetearth-conserve/">LinkedIn</a></li>
+        <li><a href="https://youtube.com/@planetearthconserve">YouTube</a></li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>Contact: planetearthconserve@gmail.com | verdantwaves.da@gmail.com</p>
+    <p>&copy; 2025 Planetearth Conserve</p>
+  </footer>
+</body>
+</html>
